@@ -1,0 +1,9 @@
+pymongo
+google-cloud-vision
+streamlit 
+pandas 
+google-generativeai
+flask
+flask_cors
+nltk
+python-dotenv
